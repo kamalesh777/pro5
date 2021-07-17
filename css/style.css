@@ -1,0 +1,361 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@300&display=swap');
+body{
+	font-weight: 400;
+	overflow-x: hidden;
+}
+h1, h2, h3, h4,h6, strong, b {
+	font-weight: 400; 
+	font-family: 'Raleway', sans-serif;
+}
+p,ul,li,a{
+	font-family: 'Raleway', sans-serif;
+}
+.top-banner{
+	background: url(../images/0su4tq.jpg);
+	height: 382px;
+	background-size: cover;
+}
+.text-box{
+	background: #1ba38c;
+	margin: auto;
+	color: #fff;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	margin-top: 100px;
+}
+.banner-text h1{
+	font-size: 43px;
+	margin: 5px 10px;
+}
+.top-banner p{
+	margin: auto;
+	font-size: 24px;
+	color: #fff;
+	margin-top: 20px;
+}
+.nav-1{
+	background: rgb(52 52 52 / 51%);
+	margin-top: 90px;
+}
+.menu-1{
+	font-size: 30px;
+	color: #fff;
+}
+.menu{
+	color: #fff;
+	font-weight: bold;
+	cursor: pointer;
+}
+.business-service{
+	margin: 50px 0px;
+}
+.headding{
+	margin: auto;
+	font-size: 42px;
+	margin-bottom: 20px;
+}
+.icon{
+	height: 120px;
+	width: 120px;
+	border: 2px solid #1ba38c;
+	border-radius: 62px;
+}
+.icon-text-00{
+	display: flex;
+	justify-content: center;
+}
+.icon i{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	margin-top: 30px;
+	font-size: 50px;
+	color: #1ba38c;
+}
+.icon-text{
+	text-align: center;
+	margin: 20px 0px;
+}
+.icon-text h6{
+	font-size: 20px;
+}
+.btn-1{
+	display: flex;
+	justify-content: center;
+	margin-top: 40px;
+}
+.btn-color{
+	border: 1px solid #666;
+	color: #666;
+	padding: 15px 77px;
+	font-size: 20px;
+	margin: auto;
+}
+.btn-color:hover{
+	border: 1px solid #666;
+	background: #666;
+	color: #fff;
+	transition: 0.3s ease-in-out;
+}
+.testis-q{
+	background: #1ba38c;
+	height: 320px;
+	padding-top: 70px;
+}
+.testis-q p{
+	font-size: 47px;
+}
+.testis-q ul{
+	font-size: 22px;
+}
+.testis-q p,ul{
+	color: #fff;
+	margin: auto;
+}
+.our-clints{
+	padding: 65px 0px;
+}
+.clints {
+	font-size: 47px;
+	margin: auto;
+}
+.clint-img{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	margin-top: 20px;
+}
+.bottom-banner{
+	background: url(../images/0su4tq.jpg);
+	height: 300px;
+	background-size: cover;
+}
+.botom-text{
+	font-size: 47px;
+	margin: auto;
+	color: #fff;
+	padding: 40px 0px;
+}
+.last-btn-color{
+	border: 1px solid #fff;
+	color: #fff;
+	padding: 15px 52px;
+	font-size: 20px;
+}
+
+.last-btn-color:hover{
+	border: 1px solid #666;
+	background: #666;
+	color: #fff;
+	transition: 0.3s ease-in-out;
+}
+.footer{
+	display: flex;
+	justify-content: space-between;
+	color: rgba(0, 0, 0, 0.7);
+}
+.footer-l{
+	display: flex;
+	justify-content: space-between;
+	background: rgba(0, 0, 0, 0.7);
+	padding: 10px;
+}
+.footer-l a{
+	color: #fff;
+	font-size: 20px;
+	text-decoration: none;
+}
+
+
+
+
+/*About.me.css*/
+
+
+.about-me{
+	background: url(../images/1z.jpg);
+	height: 420px;
+	background-size: cover;
+}
+.heading-about-me {
+	display: flex;
+	justify-content: center;
+	padding-top: 50px;
+	color: #fff;
+}
+.heading-about-me h1{
+	font-size: 60px;
+	text-shadow: 0px 5px #161414e0;
+}
+.heading-about-me-1{
+	display: flex;
+	justify-content: center;
+	color: #fff;
+}
+.heading-about-me-1 p{
+	font-size: 22px;
+}
+.heading-about-me-2{
+	color: #fff;
+	background: #00000063;
+	border-radius: 5px;
+	padding: 10px;
+}
+.heading-about-me-2 span{
+	font-size: 16px;
+}
+.about-me-nav{
+	background: rgb(0 0 0);
+}
+
+/*Core Expertise.css*/
+
+.headding-core-expertise{
+	font-size: 42px;
+	margin-bottom: 20px;
+}
+.core-expertise-00{
+	margin: auto;
+	padding-top: 70px;
+}
+.core-expertise-00 p{
+	font-size: 47px;
+}
+.core-expertise-00 ul{
+	font-size: 22px;
+}
+.core-expertise-00 p,ul{
+	color: #000;
+	margin: auto;
+}
+.full-proficiency{
+	text-align: center;
+}
+.full-proficiency img{
+	margin-top: 60px;
+}
+.full-proficiency h6,p{
+	margin-top: 20px;
+}
+
+/*Blogs*/
+
+.e-3{
+	margin-top: 40px;
+}
+.blogs{
+	margin-top: 40px;
+}
+.blog-text{
+	margin: auto;
+	font-size: 42px;
+}
+.blog-text span{
+	font-weight: bold;
+}
+.blog-images{
+	width: 300px;
+}
+.blog-images img{
+	max-width: 100%;
+	border-radius: 10px;
+}
+.blog-images-text{
+	text-align: center;
+	padding-top: 20px;
+}
+.blog-images-text a{
+	font-size: 20px;
+	color: #000;
+	font-weight: bold;
+}
+
+
+
+/*Testimonials*/
+.testimonials{
+	margin-bottom: 40px;
+}
+.ts-1{
+	margin-top: 40px;
+}
+.testimonial-box{
+	display: flex;
+	justify-content: center;
+}
+.testimonial-box img{
+    height: 102px;
+    width: 102px;
+    border-radius: 52px;
+}
+.testimonial-text{
+	text-align: center;
+}
+.testimonial-text p{
+	font-size: 16px;
+	color: #9d9d9d;
+	font-weight: bold;
+	margin: 20px 0px;
+}
+.testimonial-text h6{
+	font-size: 25px;
+	margin-top: 20px;
+}
+
+/*Contact*/
+.contact-details{
+	margin: auto;
+	margin-top: 50px;
+}
+.icon-box{
+	height: 70px;
+	width: 70px;
+	border-radius: 35px;
+	border: 2px solid #1ba38c;
+	text-align: center;
+	cursor: pointer;
+}
+.icon-box i{
+	margin-top: 16px;
+	font-size: 35px;
+	color: #1ba38c;
+}
+.contact h6{
+	color: #9d9d9d;
+	margin: 20px 0px 0px 20px;
+}
+.icon-text{
+	margin: 20px 0px;
+}
+
+
+
+/*MEDIA QUARY START*/
+@media only screen and (max-width: 768px) {
+  /* For mobile phones: */
+  [class*="col-"] {
+    /* width: 100%; */
+  }
+.botom-text{
+	font-size: 22px;
+}
+.headding p{
+	font-size: 27px;
+}
+
+
+/*About.me.responsive*/
+
+.heading-about-me h1{
+	font-size: 30px;
+}
+.heading-about-me-1 p{
+	font-size: 20px;
+}
+.heading-about-me-2 span{
+	font-size: 8px;
+}
+
+
+/*https://abhishekbajaj-ca.webnode.com/
